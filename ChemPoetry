@@ -1,0 +1,5 @@
+your-repo-name/
+├── index.html
+├── style.css
+├── CNAME   ← (optional, for custom domain)
+└── assets/ (optional for images later)
