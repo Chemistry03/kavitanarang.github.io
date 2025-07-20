@@ -7,6 +7,42 @@ body {
   color: #333;
 }
 
+/* ===== Header ===== */
+header {
+  background-color: #003366;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+header p {
+  margin: 5px 0 0;
+  font-size: 1rem;
+}
+
+/* ===== Navigation Bar ===== */
+nav {
+  background-color: #005599;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 12px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
 /* ===== Page Header ===== */
 .page-header {
   text-align: center;
@@ -21,7 +57,7 @@ body {
 /* ===== Content Section ===== */
 .content-section {
   max-width: 900px;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 20px;
   background: #ffffff;
   border: 1px solid #ddd;
@@ -40,37 +76,4 @@ body {
 }
 
 .card:hover {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-
-/* ===== Lists ===== */
-.content-section ul {
-  list-style-type: square;
-  padding-left: 30px;
-}
-
-.content-section li {
-  margin-bottom: 8px;
-  font-size: 1rem;
-}
-
-/* ===== Links ===== */
-a {
-  color: #007acc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* ===== Responsive Layout ===== */
-@media screen and (max-width: 768px) {
-  .content-section {
-    padding: 15px;
-  }
-
-  .page-header {
-    font-size: 1.5rem;
-  }
-}
+  box-sh
