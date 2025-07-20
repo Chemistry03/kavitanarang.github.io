@@ -2,7 +2,7 @@
 
 This repository contains the source code for the personal academic website of **Dr. Kavita Narang**, Assistant Professor of Chemistry.
 
-🔗 **Live Website:** [https://kavitanarang.in](https://kavitanarang.in)
+🔗 **Live Website:** https://kavita1864.wixsite.com/chemistry-poetry-in 
 
 ## 📚 Sections
 
